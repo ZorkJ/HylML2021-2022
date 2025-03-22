@@ -1,0 +1,2 @@
+2021 Homework2 Kaggle Link: [https://www.kaggle.com/code/tamakoyl/2021hw02phoneme/notebook](https://www.kaggle.com/code/tamakoyl/2021hw02phoneme/notebook)
+2022 Homework2 Kaggle Link: [https://www.kaggle.com/c/ml2022spring-hw2](https://www.kaggle.com/code/tamakoyl/2021hw02phoneme/notebook)
